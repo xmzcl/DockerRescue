@@ -1,1 +1,3 @@
 memos:0.22.2
+redis
+mysql:8.0.0
