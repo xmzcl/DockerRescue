@@ -1,1 +1,1 @@
-memos:0.22.2
+neosmemo/memos:0.22.2
