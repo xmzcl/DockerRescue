@@ -1,2 +1,2 @@
 python:3.10.14-alpine
-msyql:8
+msyql:latest
