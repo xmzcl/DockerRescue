@@ -1,2 +1,2 @@
-neosmemo/memos:0.22.2
-gitlab/gitlab-ce:13.12.15-ce.0
+python:3.10.14-alpine
+msyql:8
