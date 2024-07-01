@@ -1,1 +1,1 @@
-ddg5366/roonserver:b1126old1
+ddg5366/roonserver:latest
